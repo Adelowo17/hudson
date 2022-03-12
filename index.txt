@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html>
+
+
+<head>
+
+    <HEADER>
+        <CENTER>
+         <IMG SRC="hud.jpg" width="100px">
+         <H3 ><A HREF ="homes.html">Homes</A> | 
+    <A HREF="about.html">About me </A> | 
+    <A HREF="learnt.html">What i learnt</A></H3>
+         
+    <HR>     
+         
+        </CENTER> 
+    </HEADER>
+
+
+    <MAIN> 
+        <IMG SRC="image.jpg"> <HR>
+        <div class="row spacer" STYLE="PADDING:5%;"> 
+        <div class="col-sm-6">
+         <h3>Hudson Road Primary School</h3> <HR>
+    <P >The school has lovely students you can ever wish for </P>
+        <P > The owner of this school is kind.</P>
+    <P > Feel free to contact us at hudson primary school.</P>
+    <P>Everyone has their own talent and we treat equal to other religions.</P>
+    <P>Anything your child has done will be reported.</P>
+    </MAIN>
+    
+
+</Body>   
+</Html>
